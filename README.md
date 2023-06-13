@@ -127,6 +127,7 @@ Tutorial: Xodó de Bolso - Jogo do Caranguejo Virtual
 
 Bem-vindo ao tutorial do Simulador de Missões - Jogo do Caranguejo Virtual! Neste jogo, você terá a oportunidade de cuidar de um pet virtual em forma de caranguejo e realizar diversas missões emocionantes. Siga as instruções abaixo para começar a jogar:
 
+Passo 0: Baixar todos os arquivos do projeto, salvá-los na mesma paste e executar o main.py em alguma IDE.
 
 Passo 1: Cadastro e Login
 Ao iniciar o jogo, você será apresentado a um menu de opções. Digite "1" para realizar o cadastro como novo usuário ou "2" para fazer login caso já tenha uma conta.
